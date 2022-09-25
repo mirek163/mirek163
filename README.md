@@ -5,8 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirek163&theme=onedark&layout=compact)](https://github.com/mirek163)
 
-- 🔭 I’m currently working on discord bot -> drink reminder
-- 🌱 I’m currently playing in free time remnant, Subnautica, fall guys
+- 🔭 I’m currently working on project to school
+- 🌱 I’m currently playing in free time Subnautica, Fall guys, Rocket league ,DST
 - 👯 I’m still learning stuff, I’m not good programmer
 - ⚡ I am lazy to write an actual fact.
 
